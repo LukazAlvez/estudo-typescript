@@ -1,7 +1,9 @@
-##Meu blog
+## Meu blog
 
-#Proposta:
+# Proposta:
+
 Estudar conceitos basicos de programação e Typescript.
 
-#To-do
+# To-do
+
 [x]criar app básico react js
