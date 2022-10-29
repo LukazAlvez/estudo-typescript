@@ -8,3 +8,4 @@ Estudar conceitos basicos de programação e Typescript.
 
 - [x] criar app básico react js
 - [ ] instalar dependencias
+- [ ] criar layout
